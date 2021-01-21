@@ -1,0 +1,5 @@
+# Purescript Ignore
+/problem-*/purescript/*
+
+# Purescript Include
+!/problem-*/purescript/index.purs
