@@ -13,3 +13,4 @@ filtered = filter (\x -> mod x 3 == 0 || mod x 5 == 0) input
 
 output :: Int
 output = sum filtered
+-- output is 233168
