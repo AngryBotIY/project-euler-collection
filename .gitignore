@@ -1,6 +1,7 @@
 # Purescript Ignore
-/problem-*/purescript/*
+/*/purescript/*
 .psc-ide-port
 
 # Purescript Include
-!/problem-*/purescript/*.purs
+!/*/purescript/src
+!/*/purescript/test
